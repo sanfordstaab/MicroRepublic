@@ -1,8 +1,8 @@
 ## MICRO REPUBLICS ##
 ### A REPLACEMENT FOR TRADITIONAL GOVERNMENT STRUCTURES.
-### REVISION 2
-### MARCH 4TH 2016
-#### Introduction
+#### REVISION 2
+#### MARCH 4TH 2016
+### Introduction
 With the rise of the World Wide Web, a powerful social force has been born.  The legitimate function of government is the administration of justice, the protection of the weak and poor, and the protection of its people and law from external and internal enemies.  It seems quite possible to create a social network for the administration of government that can far out-perform existing government frameworks and hopefully protect us all from usurpers and defrauders both at the collective and individual levels.
 
 The goal of such a system would be to disperse power as broadly as possible by soliciting the participation of citizens for short periods of time on specific tasks.  By removing the cumbersome and abuse prone system of law generation by a legislative body and instead depositing the law into the conscience of randomly selected juries, the rules begin to truly reflect the beliefs of the people.  By restricting jury participation to people that meet minimum bar of qualifications, irresponsible and incompetent individuals are less likely to degrade the system over time.  By holding jurors accountable for their decisions we ensure responsible behavior by those entrusted with power.  By allowing more people to directly participate in the work of their own government, the level of competence, responsibility and understanding of the people is raised creating a feedback loop of continuing social improvement.  This creates a true government “of the people, by the people and for the people”.
